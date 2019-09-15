@@ -8,7 +8,9 @@ This installation was first shown during “Bain De Midi”, a group exhibition 
 
 
 # What Are The Sub-Components?
-
+- Motion Sensor
+- Motor
+- Fan
 
 
 
