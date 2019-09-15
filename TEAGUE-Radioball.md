@@ -6,8 +6,12 @@ TEAGUE's Radioball is an exploratory device that encourages discovery through ri
 
 
 # What Are The Sub-Components?
-
-
+- Battery
+- SparkFun FM Tuner Board
+- Speaker/
+- Jumper Wires
+- Sensor (?)
+- Pentagon Ball Structure 
 
 
 # Reference Link
