@@ -8,9 +8,12 @@ This installation was first shown during “Bain De Midi”, a group exhibition 
 
 
 # What Are The Sub-Components?
-- Motion Sensor
+- PIR Motion Sensor (?) 
 - Motor
-- Fan
+- Big Fan
+- Crepe Paper (Fan Effect) 
+- Wires
+- Bluetooth Ardunio Board (?)
 
 
 
