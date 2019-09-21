@@ -10,7 +10,7 @@ They designed an experience that literally reflected the user in the exhibit, un
 - One Sided Mirror Wall
 - Projector
 - Motion Sensor
-- TUIO ReactVision (I'm guessing this is what they used to make it interactive because they were able to make it into a touchscreen. We used a similar platform for doing the interactive table in our Objects & Spaces Class.)
+- TUIO ReacTIVision (I'm guessing this is what they used to make it interactive because they were able to make it into a touchscreen. We used a similar platform for doing the interactive table in our Objects & Spaces Class.)
 
 # Reference Link
 https://stimulant.com/portfolio-item/launchpad-exhibit-mohai/
