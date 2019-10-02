@@ -13,6 +13,8 @@ Apple Health App records the users activity data and health information.
 
 # What Are The User Input?
 - Activity (Walking / Running, Steps, Flights Climbed)
+- Health Information (Name, Weight, Height, Allergies & Reactions, Birth Date, Emergency Contacts) 
+- Connected Third Party Apps
 
 # What Are The Data? 
 Calendar
